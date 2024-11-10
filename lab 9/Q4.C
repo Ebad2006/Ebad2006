@@ -1,3 +1,5 @@
+/*Name: Ebad Ali Siddiqui
+Roll number: 24K-0882*/
 #include <stdio.h>
 
 float calculate(float, float, char);
